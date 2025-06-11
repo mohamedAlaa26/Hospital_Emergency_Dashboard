@@ -7,8 +7,10 @@ The primary goal of this project is to transform raw ER data into actionable ins
 ## ✨ Features and Dashboards
 The project consists of four interconnected dashboards, each designed to provide a specific view of the ER operations:
 ###  Monthly View Dashboard
-This dashboard offers a month-by-month monitoring of key metrics and trends, allowing users to identify patterns and areas for improvement over time. It is fully dynamic and interactive, enabling filtering by specific months and years, and allowing users to click on visual elements to filter the entire dashboard.
+This dashboard offers a month-by-month monitoring of key metrics and trends, allowing users to identify patterns and areas for improvement over time. 
+It is fully dynamic and interactive, enabling filtering by specific months and years, and allowing users to click on visual elements to filter the entire dashboard.
 Key Performance Indicators (KPIs) displayed include:
+
 •Number of Patients: Measures daily ER visits with a sparkline to show trends and identify peak days.
 
 •Average Wait Time: Calculates the average waiting time for patients, with a sparkline for daily trends.
