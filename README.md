@@ -2,7 +2,7 @@
 # 🏥 Hospital Emergency Room Dashboard (Power BI)
 This project presents a comprehensive data analysis of a hospital emergency room (ER), developed entirely in Power BI. It aims to provide insightful metrics and trends to optimize the workflow and enhance patient care within the healthcare domain.
 ### 🎯 Project Goal
-The primary goal of this project is to transform raw ER data into actionable insights through interactive dashboards. By analyzing various aspects of patient visits, wait times, satisfaction, and admissions, the dashboard helps in understanding patterns, identifying areas for improvement, and making informed decisions for resource management and operational efficiency
+The primary goal of this project is to transform raw ER data into actionable insights through interactive dashboard. By analyzing various aspects of patient visits, wait times, satisfaction, and admissions, the dashboard helps in understanding patterns, identifying areas for improvement, and making informed decisions for resource management and operational efficiency
 
 ## ✨ Features and Dashboards
 The project consists of four interconnected dashboards, each designed to provide a specific view of the ER operations:
